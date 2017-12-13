@@ -1,2 +1,2 @@
 # img
-<img src='img /l_2.jpg'/>
+<img src='https://github.com/67168181/img/blob/master/l_2.jpg'>
